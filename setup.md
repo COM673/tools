@@ -1,10 +1,8 @@
-# Introduction
+# Setup your Dev Environment
 Please setup your device in advance of the class if you can.
 
 ## Before you start installing anything - backup
-Backup everything on your device. Ideally, always store important documents and user files on a secure cloud service like OneDrive.  
-As a student, you have free access to cloud storage. Most people only learn to backup when they suffer catastrophic, unrecoverable data loss.  
-Don’t let that happen to you, backup everything now.
+Backup everything on your device. Ideally, always store important documents and user files on a secure cloud service like OneDrive. As a student, you have free access to cloud storage. Most people only learn to backup when they suffer catastrophic, unrecoverable data loss. Don’t let that happen to you, backup everything now.
 
 ## Installation Options
 You can research and examine every piece of software listed below and decide where and how you want to install it.  
@@ -25,8 +23,16 @@ Install:
 1. Maven, a software project management tool, sorts dependencies and builds ```choco install -y maven```
 1. GIT, a source code management tool ```choco install -y git```
 1. Visual Studio Code, a multi-platform, open source IDE ```choco install -y visualstudiocode```
-1. [Visual Studio Code Java Extensions Pack](vscode:extension/vscjava.vscode-java-pack)
-1. [Visual Studio Code Azure Extensions Pack](vscode:extension/ms-vscode.vscode-azureextensionpack)
+1. Visual Studio Code Java Extensions Pack 
+   1. Launch Visual Studio Code
+   1. activate Extensions with ```CTRL + SHIFT + X``` 
+   1. type ```java extension pack``` and ```enter```
+   1. click on Install under ```Java Extension Pack```
+1. Visual Studio Code Azure Extensions Pack
+   1. Launch Visual Studio Code
+   1. activate Extensions with ```CTRL + SHIFT + X``` 
+   1. type ```azure extension pack``` and ```enter```
+   1. click on Install under ```Azure Extension Pack```
 
 ### Cloud
 This course uses Azure, a cloud service from Microsoft.  
