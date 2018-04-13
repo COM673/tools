@@ -1,3 +1,4 @@
+
 # Setup your Dev Environment
 Please setup your device in advance of the class if you can.
 
@@ -13,7 +14,8 @@ Administration mode can change the operating system (e.g. install software), nor
 A more advanced (and popular with Windows developers and DevOps teams) command line system is PowerShell.  
 Some installation instructions require PowerShell instead of the traditional Command line (note, PowerShell can always be used instead but some students may find it more complex).  
 The quickest way to launch an administrative command line is ```WIN + x``` and select Command Prompt (Admin) and follow the instructions at [Chocolatey](https://chocolatey.org/install).  
-The command used for preparing this module: ```@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"```
+The command used for preparing this module: ```@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"```   
+Now close and reopen the command line shell (elevated as admin again).
 
 ### Development
 
@@ -24,7 +26,7 @@ Install:
 1. GIT, a source code management tool ```choco install -y git```
 1. Visual Studio Code, a multi-platform, open source IDE ```choco install -y visualstudiocode```
 1. Visual Studio Code Java Extensions Pack 
-   1. Launch Visual Studio Code
+   1. Launch Visual Studio Code, you should see the welcome screen
    1. activate Extensions with ```CTRL + SHIFT + X``` 
    1. type ```java extension pack``` and ```enter```
    1. click on Install under ```Java Extension Pack```
