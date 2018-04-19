@@ -20,8 +20,6 @@ Now close and reopen the command line shell (elevated as admin again).
 ### Development
 
 Install:
-1. OpenJDK, an open source Java implementation ```choco install -y zulu```
-1. Tomcat, a server for running Java web apps ```choco install -y tomcat```
 1. Maven, a software project management tool, sorts dependencies and builds ```choco install -y maven```
 1. GIT, a source code management tool ```choco install -y git```
 1. Visual Studio Code, a multi-platform, open source IDE ```choco install -y visualstudiocode```
@@ -38,6 +36,5 @@ Install:
 
 ### Cloud
 This course uses Azure, a cloud service from Microsoft.  
-You can get Azure for free with the Azure for Student program.  
-Please [register](https://azure.microsoft.com/en-us/free/students/), (note you will need to verify your student status).  
+You can get Azure for free with the Azure for Student program.
 Install the Azure Command Line interface: ```choco install -y azure-cli```
