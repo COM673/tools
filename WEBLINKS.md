@@ -1,32 +1,23 @@
-#Video Resources
 
-[YouTube Channel]
-(https://www.youtube.com/user/tok00fun)
-Command Line Videos : 
-[Part 1] 
-(https://www.youtube.com/watch?v=ovheTQDnsPo)
+# Video Resources
+[youtube](https://www.youtube.com/user/tok00fun)
 
-[Part 2]
-(https://www.youtube.com/watch?v=Nn7y5P6BqPU)
+Command Line Videos :
 
-##Video on setting up Maven on OSX :
+[Part1](https://www.youtube.com/watch?v=ovheTQDnsPo)
 
-[link] 
-(https://www.youtube.com/watch?v=vLgY0gpXjaQ&t=124s) 
+[Part2](https://www.youtube.com/watch?v=Nn7y5P6BqPU)  
 
+## Video for setting up Maven on OSX
+[link](https://www.youtube.com/watch?v=vLgY0gpXjaQ&t=124s) 
 
-#Web Resources
+# Web Resources
 
-##Java JDK download link:
+## Java Development Kit Download
+[here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htm)
 
-[here]
-(https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.htm)
+## Azure Web Link 
+[here](https://azure.microsoft.com/en-ie/free/students/)
 
-##Azure Web link: 
-
-[here]
-(https://azure.microsoft.com/en-ie/free/students/)
-
-##Github web link: 
-
+## Github web link
 [here](https://github.com/)
