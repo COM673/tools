@@ -36,8 +36,8 @@ Install:
 1. Visual Studio Code Azure Extensions Pack
    1. Launch Visual Studio Code
    1. activate Extensions with ```CTRL + SHIFT + X``` 
-   1. type ```azure extension pack``` and ```enter```
-   1. click on Install under ```Azure Extension Pack```
+   1. type ```azure functions``` and ```enter```
+   1. click on Install under ```Azure Functions```
 
 ### Cloud
 This course uses Azure, a cloud service from Microsoft.  
